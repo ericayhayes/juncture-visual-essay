@@ -3,7 +3,7 @@
 <param ve-config 
        title="John James Audubon's Birds of America"
        author="Erica Hayes"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/41_Ruffed_Grouse.jpg/1024px-41_Ruffed_Grouse.jpg"
        layout="vertical">
 
 # Blue Jay Painting
