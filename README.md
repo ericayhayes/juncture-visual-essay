@@ -10,7 +10,7 @@
 
 _The **painting** was done in 1825. The [trumpet-flower](https://www.britannica.com/plant/angels-trumpet) vine in the background, outlined in pencil only, was unfinished. Audubon instructed Havell to copy it from plate 65 (The Rathbone Warbler)._
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://ericayhayes.github.io/juncture-visual-essay/images/obj12.jpg">
 
 # Basic usage
 
